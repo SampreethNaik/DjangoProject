@@ -1,0 +1,29 @@
+# zety.com
+
+User-Agent: *
+Allow: /
+Disallow: /mycv/
+Disallow: /mycl/
+Disallow: /career-course/*
+Allow: /career-course/$
+Disallow: /admin-preview/
+Disallow: /bonus-content
+Disallow: /continue
+Disallow: /nps
+Disallow: /newsletter
+Disallow: /onboarding
+Disallow: /assets/
+
+Noindex: /mycv/
+Noindex: /mycl/
+Noindex: /career-course/*
+Noindex: /admin-preview/
+Noindex: /bonus-content
+Noindex: /continue
+Noindex: /nps
+Noindex: /newsletter
+Noindex: /onboarding
+Noindex: /assets/
+
+Sitemap: https://zety.com/sitemap-static.xml
+Sitemap: https://zety.com/sitemap-dynamic.xml

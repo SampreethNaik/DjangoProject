@@ -1,0 +1,27 @@
+{
+  "name": "Zety Resume Builder: Make a Resume Online in 5 Minutes [Fast &amp; Easy]",
+  "short_name": "Zety",
+  "description": "Use this online resume maker to build your resume fast and easy. Get expert advice as you write. Download in minutes and start getting interviews.",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFFFFF",
+  "theme_color": "#3983FA",
+  "icons": [
+    {
+      "src": "https://cdn-images.zety.com/images/zety/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-images.zety.com/images/zety/android-chrome-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-images.zety.com/images/zety/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
